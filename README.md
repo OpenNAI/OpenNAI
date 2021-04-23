@@ -1,2 +1,2 @@
 # OpenNAI
-An open source platform of network artificial intelligence
+An Open Source Network AI Platform for 6G
